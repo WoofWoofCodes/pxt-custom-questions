@@ -1,18 +1,18 @@
 {
     "name": "pxt-custom-questions",
-    "description": "",
+    "description": "Adds blocks for changing the colors of the Ask For Number and Ask For String screens",
     "dependencies": {
         "device": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
         "assets.json",
         "customQuestions.ts"
     ],
     "testFiles": [
-        "test.ts"
+        "test.ts",
+        "main.blocks",
+        "main.ts"
     ],
     "targetVersions": {
         "target": "2.0.62",
