@@ -89,6 +89,4 @@ namespace game {
             colorBottomText: colorBottomText,
         }
     }
-
-    
 }
