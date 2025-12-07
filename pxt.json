@@ -1,5 +1,6 @@
 {
     "name": "pxt-custom-questions",
+    "version": "0.0.1",
     "description": "Adds blocks for changing the colors of the Ask For Number and Ask For String screens",
     "dependencies": {
         "device": "*"
